@@ -1,0 +1,48 @@
+.container {
+font-size: 16px;
+color: #FF99CC;
+}
+
+.name {
+font-size: 20px;
+color:#FFFFFF;
+font-family: 'Playfair Display', serif;
+text-align: center;
+background-image: url("../images/11111.jpg");
+width: 100%;
+height: 100%;
+
+}
+
+.profile a{
+  font-size: 16px;
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  color:#FFE4E1;
+}
+
+.works a{
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  color:#FFE4E1;
+}
+.photography h2{
+
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  color:#FF99CC;
+}
+.contact a{
+  font-size: 16px;
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  color:#FFE4E1;
+}
+
+.head {
+  font-size: 16px;
+  color: #FF99CC;
+}
+
+.picture{
+  height: 60px;
