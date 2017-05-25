@@ -18,6 +18,11 @@ height: 100%;
   float: right;
 }
 
+.name1 {
+  font-size: 16px;
+  color: #FF99CC;
+}
+
 
 .body{
   font-size: 12px;
