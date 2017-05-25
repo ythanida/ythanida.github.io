@@ -10,10 +10,12 @@ height: 100%;
 
 }
 .head h2{
-  
+
   color: #FF99CC;
 }
-
+.nav-right {
+  float: right;
+}
 
 .photography a{
   color: #FF99CC;

@@ -14,7 +14,9 @@ height: 100%;
 
 }
 
-
+.nav-right {
+  float: right;
+}
 
 
 .body{
